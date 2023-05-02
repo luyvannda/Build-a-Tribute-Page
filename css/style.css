@@ -1,0 +1,59 @@
+h1 {
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+}
+
+#title {
+  position: relative;
+}
+
+body{
+  background-color: aliceblue;
+  background-repeat: repeat;
+}
+
+#image {
+
+  position: relative;
+  bottom: 15px;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-div{
+  background-color: rgb(207, 200, 161);
+  padding: 10px 10px 10px 10px;
+  background-clip: padding-box;
+  background-size: 70%;
+}
+
+#img-caption{
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+ul{
+  text-align: justify;
+  margin-left: 25%;
+  margin-right: 25%;
+  list-style-position: inside;
+  line-height: 1.5;
+}
+
+.bold:first-child {
+  font-weight: bold;
+}
+
+h4 {
+  text-align: center;
+}
