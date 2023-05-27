@@ -1,5 +1,9 @@
-# FCC Test Suite Template
+Building a Tribute Page
 
-**Fork** this project (do not open a Pull Request) to start working on any of freeCodeCamp's responsive web design course projects. Select the project from the dropdown menu and run the tests to see which requirements your project is still missing.
+Student: Luy Vannda
 
-You don't know how to fork a project? [Click hear](https://help.github.com/articles/fork-a-repo/) to learn how to do it.
+Objective: Build an app that is functionally similar to https://tribute-page.freecodecamp.rocks
+
+A certification project from freeCodeCamp's responsive web designs:
+
+https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page
