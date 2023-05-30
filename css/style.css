@@ -8,7 +8,7 @@ body {
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 500px) {
   body {
     width: 100%;
     height: auto;
@@ -71,8 +71,9 @@ ul li {
 
 #quote {
 
-  margin: 0 14rem 3rem 17rem;
+  margin: 0 142pt 3rem 14.5rem;
   text-align: justify;
+  max-width: 100%;
 }
 
 h4 {
